@@ -2,12 +2,7 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ProLord007&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-<!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
-
-🙌 🙌 🙌
-
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile.
 Talking about Personal Stuffs:
 
 🏆🏆🏆🎯🎯🎯✔✔✔💪💪💪
