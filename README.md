@@ -19,12 +19,8 @@ Talking about Personal Stuffs:
 - Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
 
 <div align="center">
-    
-<!-- ### Airaki's GitHub Streak
-    
-![Airaki's GitHub Streak](https://streak-stats.demolab.com/?user=ProLord007&theme=monokai-metallian&hide_border=true)
--->
-### Airaki's Current Stat
+### Airaki's Most Used Langauges
+![Airaki's Most Used Langauges]()
     <table>
         <tr>
             <td>
