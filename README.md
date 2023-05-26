@@ -28,7 +28,7 @@ Talking about Personal Stuffs:
     </tr>
 </table>
 </div>
-    
+<div align="center">
 ### Airaki's Work on This Week
 <!--START_SECTION:waka-->
 ```text
@@ -39,9 +39,10 @@ CSS          14 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProLord007&theme=react&line_height=40&hide=css) -->
-
+</div>
+<div align="center">
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
-
+</div>
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ProLord007.ProLord007" />
     <img align="right" src="https://img.shields.io/github/followers/ProLord007" />
