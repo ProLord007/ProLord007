@@ -34,6 +34,9 @@ Talking about Personal Stuffs:
                 <img src="https://api.daily.dev/devcards/565f6a96caa04ba597ad5ed40c013458.png?r=l6x" title="Airaki's Stat on Daily.Dev" alt="Airaki's Stat on Daily.Dev" width="160"></td>
         </tr>
     </table>
+</div>
+    
+    
 ### Airaki's Work on This Week
 <!--START_SECTION:waka-->
 ```text
