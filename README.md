@@ -24,8 +24,7 @@ Talking about Personal Stuffs:
     
 ![Airaki's GitHub Streak](https://streak-stats.demolab.com/?user=ProLord007&theme=monokai-metallian&hide_border=true)
 -->
-### Airaki's Most Used Langauges
-![Airaki's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ProLord007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
+### Airaki's Current Stat on Coding Ground
     <table>
         <tr>
             <td>
