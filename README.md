@@ -18,7 +18,7 @@ Talking about Personal Stuffs:
 - <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | Notion
 - Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
 
-<div align="center">
+<div align="left">
 <table>
     <tr>
         <td>
@@ -29,7 +29,7 @@ Talking about Personal Stuffs:
 </table>
 </div>
     
-    
+<div align="right">
 ### Airaki's Work on This Week
 <!--START_SECTION:waka-->
 ```text
@@ -38,6 +38,7 @@ JavaScript   8 hr 38 mins    █████████░░░░░░░░
 JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
+</div>
 <!--END_SECTION:waka-->
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProLord007&theme=react&line_height=40&hide=css) -->
 
