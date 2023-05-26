@@ -26,7 +26,15 @@ Talking about Personal Stuffs:
 -->
 ### Airaki's Most Used Langauges
 ![Airaki's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ProLord007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
-    
+### Airaki's Work on This Week
+<!--START_SECTION:waka-->
+```text
+JSX          14 hrs 32 mins  ███████████████             60.55 % 
+JavaScript   8 hr 38 mins    █████████░░░░░░░░░░░░░░░░   35.96 % 
+JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+```
+<!--END_SECTION:waka-->
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProLord007&theme=react&line_height=40&hide=css) -->
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
@@ -85,4 +93,3 @@ Talking about Personal Stuffs:
     <img src="https://github.com/ProLord007/ProLord007/blob/main/screenshot.png?raw=true" title="Three.js" alt="Three.js">
 </a>-->
 
-<a href="https://app.daily.dev/Aurora3820"><img src="https://api.daily.dev/devcards/565f6a96caa04ba597ad5ed40c013458.png?r=l6x" width="400" alt="aurora galaxy's Dev Card"/></a>
