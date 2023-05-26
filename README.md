@@ -49,7 +49,7 @@ Talking about Personal Stuffs:
         <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" title="MySQL" width="100" alt="MySQL"></td>
-        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
+        <td><img src="https://github.com/ProLord007/ProLord007/blob/main/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png?raw=true" title="Three.js" width="100" alt="Three.js"></td>
         <td><img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js"></td>
         <td><img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap"></td>
         <td><img src="https://img.icons8.com/color/2x/sass.png" title="Sass" width="100" alt="Sass"></td>
@@ -72,16 +72,12 @@ Talking about Personal Stuffs:
         <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
         <td><img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux"></td>
         <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="100" alt="Linux"></td>
-        <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
+        <td><img src="https://github.com/ProLord007/ProLord007/blob/main/rubik3.jpg?raw=true" title="Three.js" width="100" alt="Three.js"></td>
         <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="100" alt="Docker"></td>
         <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="100" alt="Dart"></td>
         <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="100" alt="Flutter"></td>
         <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab"></td>
         <td><img src="https://img.icons8.com/color/452/amazon-web-services.png" title="Amazon Web Service" width="100" alt="Amazon Web Service"></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/ProLord007/ProLord007/blob/main/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png?raw=true" title="Three.js" width="100" alt="Three.js"></td>
-        <td><img src="https://github.com/ProLord007/ProLord007/blob/main/rubik3.jpg?raw=true" title="Three.js" width="100" alt="Three.js"></td>
     </tr>
 </table>
 
