@@ -30,8 +30,8 @@ Talking about Personal Stuffs:
                 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ProLord007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" title="Airaki's Most Used Languages" alt="Airaki's Most Used Languages"></td>
             <td>
                 <img src="https://api.daily.dev/devcards/565f6a96caa04ba597ad5ed40c013458.png?r=l6x" title="Airaki's Stat on Daily.Dev" alt="Airaki's Stat on Daily.Dev" width="160"></td>
-            <td>
-                
+        </tr>
+    </table>
 ### Airaki's Work on This Week
 <!--START_SECTION:waka-->
 ```text
@@ -40,9 +40,6 @@ JavaScript   8 hr 38 mins    █████████░░░░░░░░
 JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
-            </td>
-        </tr>
-    </table>
 <!--END_SECTION:waka-->
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProLord007&theme=react&line_height=40&hide=css) -->
 
