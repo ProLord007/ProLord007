@@ -3,7 +3,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ProLord007&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 Welcome to my profile.
-Talking about Personal Stuffs:
+## Talking about Personal Stuffs:
 - I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
 - Enterprise application development and support
 - <b>Front-end</b> : Angular | Reactjs | Next.js | Vuejs | Vuex | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd | Redux | Webpack | Babel | Gulp | Websocket | GraphQL | ES6+
