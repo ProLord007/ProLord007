@@ -1,7 +1,7 @@
 
-<p align="center">
+<!--<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ProLord007&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
+</p>-->
 ## Welcome to my profile.
 Talking about Personal Stuffs:
 
@@ -29,13 +29,13 @@ Talking about Personal Stuffs:
     </tr>
 </table>
     
-### Airaki's Work on This Week
+### Pelik's Work on This Week
 <!--START_SECTION:waka-->
 ```text
-JSX          14 hrs 32 mins  ███████████████             60.55 % 
-JavaScript   8 hr 38 mins    █████████░░░░░░░░░░░░░░░░   35.96 % 
-JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+C#           14 hrs 32 mins  ███████████████             60.55 % 
+Go           8 hr 38 mins    █████████░░░░░░░░░░░░░░░░   35.96 % 
+Javascript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+XML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProLord007&theme=react&line_height=40&hide=css) -->
