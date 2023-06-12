@@ -30,7 +30,7 @@ Talking about Personal Stuffs:
     </tr>
 </table>
     
-### Pelik's Work on This Week
+### My's Work on This Week
 <!--START_SECTION:waka-->
 ```text
 C#           14 hrs 32 mins  ███████████████             60.55 % 
