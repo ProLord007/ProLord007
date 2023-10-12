@@ -42,6 +42,9 @@ XML          14 mins         ▒░░░░░░░░░░░░░░░░
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProLord007&theme=react&line_height=40&hide=css) -->
 <!--![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)-->
 <div>
+    <img src="https://github.com/ProLord007/ProLord007/blob/main/images/stat.svg" alt="Airaki WakaTime Activity"/>
+</div>
+<div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ProLord007.ProLord007" />
     <img align="right" src="https://img.shields.io/github/followers/ProLord007" />
     <!-- <img align="right" src="https://img.shields.io/github/followers/ProLord007?label=Follow&style=social" /> -->
