@@ -26,7 +26,7 @@ Talking about Personal Stuffs:
         </td>
         <td>
             <!--<img src="https://api.daily.dev/devcards/565f6a96caa04ba597ad5ed40c013458.png?r=l6x" title="Airaki's Stat on Daily.Dev" alt="Airaki's Stat on Daily.Dev" width="160"></td>-->
-            <img src="https://github-profile-trophy.vercel.app/?username=ProLord007&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=ProLord007&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15&title=Repositories,Commits,Multilanguage"/>
     </tr>
 </table>
     
