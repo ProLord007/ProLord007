@@ -3,19 +3,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ProLord007&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>-->
 ## Welcome to my profile.
-Talking about Personal Stuffs:
-
-- I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
-- Enterprise application development and support
-- <b>Front-end</b> : Angular | Reactjs | Next.js | Vuejs | Vuex | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd | Redux | Webpack | Babel | Gulp | Websocket | GraphQL | ES6+
-- <b>3D</b> : Three.js | 3D Max | WebGl | Potree
-- <b>Back-end</b> : Python | Node | Express | Django | GoLang | ASP.NET | Laravel | CodeIgniter | Apollo | Nginx | Apache
-- <b>Mobile</b> : React-Native | Flutter | Ionic
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore | MariaDB | Redis
-- <b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
-- <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | Notion
-- Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
-
 <div align="center">
 <table>
     <tr>
