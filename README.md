@@ -35,8 +35,6 @@ const developer = {
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProLord007&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProLord007&layout=compact&theme=radical&hide_border=true)
 
 ### 🔗 Connect
