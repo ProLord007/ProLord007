@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Allen
+### Hi there 👋
 
 Full-stack Developer | AI Enthusiast | Remote Worker
 
@@ -37,10 +37,6 @@ const developer = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProLord007&layout=compact&theme=radical&hide_border=true)
 
-### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
 
