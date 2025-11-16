@@ -5,16 +5,33 @@ Full-stack Developer | AI Enthusiast | Based in Bogotá 🇨🇴
 ```typescript
 const developer = {
   role: "Full-stack AI Developer",
-  skills: ["React", "Node.js", "Python", "OpenAI API", "Firebase"],
-  currentFocus: "Building AI-powered applications",
-  lookingFor: "Interesting projects & collaborations"
+  
+  coreSkills: [
+    "Python",              // AI + Backend
+    "React/Next.js",       // Frontend
+    "OpenAI/LangChain",    // AI Implementation
+    "AWS/Docker",          // Cloud & DevOps
+    "Git/GitHub"           // Version Control
+  ],
+  
+  techStack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Python", "Node.js", "FastAPI", "Express"],
+    ai: ["OpenAI API", "LangChain", "RAG", "Prompt Engineering"],
+    cloud: ["AWS", "Docker", "Vercel", "Firebase"],
+    database: ["PostgreSQL", "MongoDB", "Pinecone"]
+  },
+  
+  currentFocus: "Building AI-powered SaaS applications",
+  lookingFor: "Freelance opportunities & collaborations"
 };
 ```
 
-### 🚀 Current Projects
-- 🤖 AI chatbot for coding interviews
-- 📊 Data visualization tools
-- 🔧 Open source contributions
+### 🚀 What I Build
+- 🤖 AI-powered web applications
+- 📊 Full-stack SaaS products
+- 🔧 Automation tools with LangChain
+- ☁️ Cloud-native solutions
 
 ### 📊 GitHub Stats
 
