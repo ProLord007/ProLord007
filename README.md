@@ -2,35 +2,8 @@
 <!--<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ProLord007&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>-->
-## Welcome to my profile.
-<div align="center">
-<table>
-    <tr>
-        <td>
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ProLord007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" title="Airaki's Most Used Languages" alt="Airaki's Most Used Languages"></td>
-        <td>
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ProLord007&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" title="Airaki's Github Status" alt="Airaki's Github Status">
-        </td>
-        <td>
-            <!--<img src="https://api.daily.dev/devcards/565f6a96caa04ba597ad5ed40c013458.png?r=l6x" title="Airaki's Stat on Daily.Dev" alt="Airaki's Stat on Daily.Dev" width="160"></td>-->
-            <img src="https://github-profile-trophy.vercel.app/?username=ProLord007&row=1&column=3&theme=gruvbox&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA"/>
-    </tr>
-</table>
-    
-### My Work on This Week
-<!--START_SECTION:waka-->
-```text
-C#           14 hrs 32 mins  ███████████████             60.55 % 
-Go           8 hr 38 mins    █████████░░░░░░░░░░░░░░░░   35.96 % 
-Javascript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-XML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-```
-<!--END_SECTION:waka-->
-<!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProLord007&theme=react&line_height=40&hide=css) -->
-<!--![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)-->
-<div>
-    <img src="https://github.com/ProLord007/ProLord007/blob/main/images/stat.svg" alt="Airaki WakaTime Activity"/>
-</div>
+## Welcome folks~
+
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ProLord007.ProLord007" />
     <img align="right" src="https://img.shields.io/github/followers/ProLord007" />
