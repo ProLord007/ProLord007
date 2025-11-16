@@ -1,6 +1,6 @@
-### Hi there 👋 I'm [Your Name]
+### Hi there 👋 I'm Allen
 
-Full-stack Developer | AI Enthusiast | Based in Bogotá 🇨🇴
+Full-stack Developer | AI Enthusiast | Remote Worker
 
 ```typescript
 const developer = {
