@@ -18,9 +18,9 @@ const developer = {
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProLord007&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProLord007&layout=compact&theme=radical&hide_border=true)
 
 ### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) 
