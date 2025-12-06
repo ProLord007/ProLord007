@@ -33,11 +33,6 @@ const developer = {
 - 🔧 Automation tools with LangChain
 - ☁️ Cloud-native solutions
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProLord007&layout=compact&theme=radical&hide_border=true)
-
-
 ---
 
 💡 *"Building the future, one commit at a time"*
